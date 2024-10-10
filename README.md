@@ -1,8 +1,21 @@
-# React + Vite
+## Frontend Task Submission
+### Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### This project is a submission for the frontend task provided by [Company Name]. The task was to replicate or develop a webpage, demonstrating key front-end skills, including responsive design, interactivity, and clean code.
+### Live Demo: https://beamish-scone-16d283.netlify.app/
 
-Currently, two official plugins are available:
+## Features
+- Responsive Design: The application adjusts to various screen sizes, providing a seamless experience across devices (mobile, tablet, desktop).
+- Interactive Elements: Includes interactive elements like buttons, forms, and navigation that enhance the user experience.
+- Clean Code Structure: Organized code with clear separation of concerns between files.
+- Optimized Performance: Efforts were made to optimize page loading speed by reducing redundant assets and utilizing efficient code.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- Javascript
+- ReactJS
+- SCSS
+- HTML
+
+  ### How to Run the Project Locally
+  - git clone this project
+  - npm install to install all the dependencies
